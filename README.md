@@ -83,9 +83,7 @@ Bye me Cup of coffee
 
 
 ## visit my other repository with different admin pages with below link
-https://github.com/PuneethReddyHC/online-shopping-system-advanced
-
-https://github.com/PuneethReddyHC/event-management
+https://github.com/chitawun/fashion.git
 
 ##  If you like my project hit a star button
 
